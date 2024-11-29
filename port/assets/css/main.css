@@ -1,7 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 @font-face {
-    font-family: 'Paperlogy-8ExtraBold' !important;
+    font-family: 'Paperlogy-8ExtraBold';
     src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-8ExtraBold.woff2') format('woff2');
     font-weight: 800;
     font-style: normal;
@@ -28,7 +28,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font: 'Paperlogy-8ExtraBold';
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
